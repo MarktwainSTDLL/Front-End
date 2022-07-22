@@ -15,12 +15,12 @@ Confira mais:
 - eDevAcademy: https://www.edevacademy.com/
 - Portfolio: https://portfoliodorafael.github.io/
 
-> "Sois um consagrado: tendes de querer
-> o que a verdade quer; consenti, por causa
-> dela, em vos mobilizardes, em vos fixardes
-> nos seus domínios, em vos organizardes e,
-> porque vos falta a experiência, em vos
-> firmardes na experiência alheia."
-> or formatting instructions.
+> "Sois um consagrado: tendes de querer <br>
+> o que a verdade quer; consenti, por causa <br>
+> dela, em vos mobilizardes, em vos fixardes <br>
+> nos seus domínios, em vos organizardes e, <br>
+> porque vos falta a experiência, em vos <br>
+> firmardes na experiência alheia." <br>
+> or formatting instructions. <br>
 
 A. D. Sertillanges - _A Vida Intelectual_
